@@ -1,5 +1,5 @@
-# ReLight
-Runtime NiPointLight lighting framework for Skyrim SE/AE/VR. Provides JSON-driven configuration and an in-game ImGui menu for real-time light editing.
+# Lightning Rod
+SKSE Skyrim Mod that adds a chance for player and NPCs Wearing Metal to be hit by lighting.
 
 Resources
  Readme
